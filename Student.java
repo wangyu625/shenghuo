@@ -8,6 +8,6 @@ Class Student {
     System.out.println("i love you " + name);
     }
 
-
+    //gffffffffffff
     新增方法
 }
